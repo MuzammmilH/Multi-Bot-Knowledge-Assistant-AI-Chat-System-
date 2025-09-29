@@ -1,0 +1,2 @@
+Product Manual:
+To reset the device, hold the power button for 10 seconds. If the device does not start, contact support@example.com.

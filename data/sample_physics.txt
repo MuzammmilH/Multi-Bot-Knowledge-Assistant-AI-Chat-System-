@@ -1,0 +1,38 @@
+{
+  "topic": "Capnography",
+  "duration_minutes": 5,
+  "script": [
+    {
+      "role": "Examiner",
+      "content": "What does a capnograph measure?"
+    },
+    {
+      "role": "Student",
+      "content": "It measures the partial pressure or concentration of carbon dioxide in expired gas over time, displayed as a waveform."
+    },
+    {
+      "role": "Examiner",
+      "content": "Describe the typical phases of the capnography trace."
+    },
+    {
+      "role": "Student",
+      "content": "Phase I is baseline with no CO₂, Phase II is the sharp upstroke as alveolar gas mixes with dead space gas, Phase III is the alveolar plateau, and Phase 0 is the rapid downstroke during inspiration."
+    },
+    {
+      "role": "Examiner",
+      "content": "What is the normal difference between arterial and end-tidal CO₂?"
+    },
+    {
+      "role": "Student",
+      "content": "Normally 0.3–0.6 kPa, due to alveolar dead space."
+    },
+    {
+      "role": "Examiner",
+      "content": "How might the capnograph change if a patient develops a circuit disconnection?"
+    },
+    {
+      "role": "Student",
+      "content": "The trace would suddenly drop to baseline with no further waveform, indicating no exhaled CO₂ reaching the analyser."
+    }
+  ]
+}

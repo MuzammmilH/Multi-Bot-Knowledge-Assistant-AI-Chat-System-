@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chainlit
+.chainlit/
+chainlit.db
+
+# FAISS / Indexes
+server/indexes/
+*.faiss
+*.npy
+
+# Cache
+.cache/
+*.tmp
+*.swp
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+*.env

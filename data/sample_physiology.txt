@@ -1,0 +1,54 @@
+{
+  "topic": "Oxygen transport in blood",
+  "duration_minutes": 5,
+  "script": [
+    {
+      "role": "Examiner",
+      "content": "Can you describe the main ways in which oxygen is carried in the blood?"
+    },
+    {
+      "role": "Student",
+      "content": "Oxygen is carried in two forms: bound to haemoglobin and dissolved in plasma. The majority is bound to haemoglobin."
+    },
+    {
+      "role": "Examiner",
+      "content": "Approximately what proportion of oxygen is carried dissolved in plasma at normal arterial oxygen tension?"
+    },
+    {
+      "role": "Student",
+      "content": "At a PaO₂ of about 13 kPa, roughly 0.3 mL of oxygen is dissolved per 100 mL of blood, which is a very small fraction compared to haemoglobin-bound oxygen."
+    },
+    {
+      "role": "Examiner",
+      "content": "Tell me about the oxygen–haemoglobin dissociation curve."
+    },
+    {
+      "role": "Student",
+      "content": "It is a sigmoid-shaped curve due to cooperative binding of oxygen to haemoglobin. The steep portion facilitates unloading in tissues, while the plateau ensures good loading in the lungs even if PaO₂ falls moderately."
+    },
+    {
+      "role": "Examiner",
+      "content": "What factors shift this curve to the right?"
+    },
+    {
+      "role": "Student",
+      "content": "Increased temperature, increased PaCO₂, reduced pH (the Bohr effect), and increased 2,3-DPG. These changes favour oxygen unloading to the tissues."
+    },
+    {
+      "role": "Examiner",
+      "content": "And what is the clinical significance of a left shift?"
+    },
+    {
+      "role": "Student",
+      "content": "A left shift indicates haemoglobin has higher affinity for oxygen, so unloading is impaired. This can occur with alkalosis, hypothermia, low CO₂, or fetal haemoglobin. Clinically, it means tissues may receive less oxygen despite normal saturations."
+    },
+    {
+      "role": "Examiner",
+      "content": "How would anaemia affect oxygen content and delivery?"
+    },
+    {
+      "role": "Student",
+      "content": "Anaemia reduces oxygen content because there is less haemoglobin, even if saturation and PaO₂ are normal. Oxygen delivery may still be maintained by increasing cardiac output, but reserve is reduced and patients desaturate more quickly."
+    }
+  ]
+}

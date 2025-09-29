@@ -1,0 +1,38 @@
+{
+  "topic": "Propofol pharmacology",
+  "duration_minutes": 5,
+  "script": [
+    {
+      "role": "Examiner",
+      "content": "Tell me about the pharmacological class of propofol."
+    },
+    {
+      "role": "Student",
+      "content": "Propofol is an intravenous induction agent, a substituted isopropyl phenol, acting mainly via potentiation of GABA-A receptor activity."
+    },
+    {
+      "role": "Examiner",
+      "content": "Describe its onset and duration of action."
+    },
+    {
+      "role": "Student",
+      "content": "It has a rapid onset, around 30 seconds, due to high lipid solubility and fast CNS penetration. Duration is 5–10 minutes after a bolus, due to redistribution."
+    },
+    {
+      "role": "Examiner",
+      "content": "What are its main cardiovascular effects?"
+    },
+    {
+      "role": "Student",
+      "content": "It causes dose-dependent hypotension due to systemic vasodilation and myocardial depression. It can also cause bradycardia through vagal effects."
+    },
+    {
+      "role": "Examiner",
+      "content": "How is propofol metabolised and excreted?"
+    },
+    {
+      "role": "Student",
+      "content": "It is metabolised mainly in the liver by conjugation to inactive metabolites, which are renally excreted. Extrahepatic clearance also occurs, including in the lungs."
+    }
+  ]
+}
